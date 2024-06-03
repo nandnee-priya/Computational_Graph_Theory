@@ -1,4 +1,4 @@
-# Computational_Graph_Theory
+# Computational Graph Theory
 This repository contains the resources and problems for _Computational Graph Theory_ project in Seasons of Code. The book followed for theory is _Introduction to Graph Theory_ by _Douglas West_.  
   
 The timeline of the project is as follows:  
