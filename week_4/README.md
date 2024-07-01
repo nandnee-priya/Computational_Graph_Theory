@@ -4,5 +4,5 @@ This week we will focus on Tree Algorithms, Binary Trees and Minimum Spanning Tr
 ##Problems  
 1. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)  
 2. [Road Reparation](https://cses.fi/problemset/task/1675)
-3. [Inverse the Problem] (https://codeforces.com/contest/472/problem/D)  
+3. [Inverse the Problem](https://codeforces.com/contest/472/problem/D)  
 4. [Find critical and pseudo-critical edges](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)  
